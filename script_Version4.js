@@ -65,7 +65,9 @@ quero que voce saiba que voce muito foda nao importa o que aconteça.
 e que os outros falam de voce.
 não importar quando estar puxado ou dificil seu dia seja forte.
 voce e foda demais.
-e principal mente uma gostosa kkkk😂😂😂
+e principalmente uma bela de uma gostosa 😂😂😂
+to mentindo? kkk
+brincadeira kkkk
 💕💕
 
 Beijos, e lindo abraço 
