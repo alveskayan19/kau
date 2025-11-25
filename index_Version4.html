@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Cartinha de Namoro</title>
+  <!-- Comentário: vincula o arquivo de estilos CSS (versão 4) ao HTML -->
+  <!-- Link para o CSS principal -->
+  <link rel="stylesheet" href="styles_Version4.css" />
+</head>
+<body>
+  <main class="wrap">
+    <h1 class="title">Uma cartinha especial</h1>
+
+    <!-- Card principal que contém o envelope, o botão e a carta -->
+    <section class="card">
+      <!-- Envelope: elemento clicável que abre/fecha a carta.
+           aria-expanded atualizado pelo JS para acessibilidade. -->
+      <div class="envelope" id="envelope" role="button" aria-expanded="false" aria-label="Envelope com cartinha">
+        <div class="flap"></div> <!-- Aba do envelope (rotaciona ao abrir/fechar) -->
+        <div class="body"></div> <!-- Corpo do envelope (apenas decorativo) -->
+      </div>
+
+      <!-- Botão que também abre/fecha a carta -->
+      <button id="openBtn" class="btn" aria-controls="letter">Abrir cartinha</button>
+
+      <!-- A carta (hidden até ser revelada). aria-live para leitor de tela -->
+      <article class="letter hidden" id="letter" aria-live="polite" aria-hidden="true">
+        <!-- Conteúdo da carta (texto que será "digitado") -->
+        <div class="letter-content" id="letterContent"></div>
+        <!-- Assinatura da carta -->
+        <div class="signature">Com carinho, <span id="author">Você</span></div>
+      </article>
+    </section>
+  </main>
+
+  <!-- Canvas para efeitos visuais: corações caindo.
+       Mantido fora do fluxo de acessibilidade (aria-hidden). -->
+  <canvas id="fxCanvas" class="fx-canvas" aria-hidden="true"></canvas>
+
+  <!-- Comentário: vincula o arquivo JavaScript (versão 4) ao HTML -->
+  <!-- Script principal -->
+  <script src="script_Version4.js"></script>
+</body>
+</html>
