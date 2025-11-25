@@ -1,0 +1,16 @@
+{
+  "name": "cartinha-namoro",
+  "version": "1.0.0",
+  "description": "Site interativo com cartinha de namoro com animações",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["cartinha", "namoro", "animações"],
+  "author": "Kayan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
