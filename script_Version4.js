@@ -63,6 +63,9 @@ pois é isso que te torna tão especial e única.
 gosto de voce mais do que palavras possa dizer.
 quero que voce saiba que voce muito foda nao importa o que aconteça.
 e que os outros falam de voce.
+não importar quando estar puxado ou dificil seu dia seja forte.
+voce e foda demais.
+e principal mente uma gostosa kkkk😂😂😂
 💕💕
 
 Beijos, e lindo abraço 
